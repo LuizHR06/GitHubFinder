@@ -2,22 +2,22 @@
 
 <br>
 
-
-
-
 O GitHub Finder permite que você pesquise por um usuário e visualize sua quantidade de seguidores, quantas pessoas ele está seguindo e seus melhores repositórios.
 
 <h1 align="center">
   <img src="https://imgur.com/CYxV2sj.gif" alt="Site sendo usado" >
 </h1>
 
+<br>
 
 # Utilizando o Projeto 
+
+<br>
 
 1. Copie o link do projeto no GitHub
 
 <h1 align="center">
-  <img src="https://imgur.com/JGdlqD2.gif" alt="Copiando link do repositório" >
+  <img src="https://imgur.com/4YCfVwJ.gif" alt="Copiando link do repositório" >
 </h1>
 
 <br>
@@ -35,7 +35,7 @@ O GitHub Finder permite que você pesquise por um usuário e visualize sua quant
 3. Dentro do GitBash, utilize a URL copiada junto com o comando:
 
 ```
-git clone https://github.com/LuizHR06/pokeinfo.git
+git clone https://github.com/LuizHR06/GitHubFinder.git
 ```
 
 <br>
@@ -44,7 +44,7 @@ git clone https://github.com/LuizHR06/pokeinfo.git
 4. Depois de clonado, entre na pasta usando o comando:
 
 ```
-cd pokeinfo/
+cd GitHubFinder/
 ```
 
 <br>
@@ -66,13 +66,13 @@ npm install
 ```
 
 <h1 align="center">
-  <img src="https://imgur.com/BBAhItd.gif" alt="Instalando pacotes no VS Code"  height="400" >
+  <img src="https://imgur.com/OW3jfSu.gif" alt="Instalando pacotes no VS Code"  height="400" >
 </h1>
 
 7. Após finalizada a instalação, no mesmo terminal utilize:
 
 ```
-npm start
+npm run dev
 ```
 
 ## Tudo pronto, agora você pode inspecionar o código e o site 
