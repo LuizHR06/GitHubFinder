@@ -1,0 +1,77 @@
+.backButton {
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    background-color: #414d8d;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.backButton:hover {
+    filter: brightness(150%);
+}
+
+.repos {
+    background-color: #2b3566;
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.descriptionText {
+    font-size: 25px;
+    margin: 1rem;
+}
+
+.card {
+    background-color: #0d122b;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.name {
+    text-align: left;
+}
+
+.language {
+    margin-top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.infoContainer {
+    display: flex;
+    gap: 1rem;
+}
+
+.info {
+    border-radius: .5rem;
+    border: 3px solid #318276;
+    display: flex;
+    margin: 1rem 0 2rem 0;
+}
+
+.info p {
+    padding: .5rem .5rem;
+}
+
+.icon {
+    padding: .6rem .8rem;
+    background-color: #318276;
+}
+
+.link {
+    background-color: #406dbc;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.link:hover {
+    filter: brightness(150%);
+}
