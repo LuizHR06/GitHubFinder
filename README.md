@@ -1,5 +1,7 @@
 # GitHub Finder
 
+## Link do site: [GitHubFinder](https://git-hub-finder-ruddy.vercel.app)
+
 <br>
 
 O GitHub Finder permite que você pesquise por um usuário e visualize sua quantidade de seguidores, quantas pessoas ele está seguindo e seus melhores repositórios.
